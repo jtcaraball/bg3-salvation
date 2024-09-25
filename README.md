@@ -17,7 +17,7 @@ Here you must specify the following variables:
 - `save_name`: The named assigned to your save file by the game. This will be
   created after you start a playthrough and by default will be stored in
   `C:\Users\{user}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story`.
-- `larian_savaves`: The name of the directory where the game saves your games.
+- `larian_saves`: The name of the directory where the game saves your games.
   It should the same as the path above.
 - `max_saves`: The maximum amount of saves stored before starting to overwrite
   your previous saves. This one is OPTIONAL.
