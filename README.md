@@ -1,4 +1,4 @@
-# Baldur's Gate 3: Honour Mode Save Scum
+# Baldur's Gate 3: Honour Mode Salvation
 
 This two batch files allow you to have a functional save system while playing
 Baldur's Gate 3 in honour mode. They function by keeping a separate folder
