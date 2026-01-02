@@ -11,10 +11,10 @@ welcome!
 
 ## Configuration
 
-To make use of the files first you must complete de `settings.config` file.
+To make use of the files first you must complete the `settings.config` file.
 Here you must specify the following variables:
 
-- `save_name`: The named assigned to your save file by the game. This will be
+- `save_name`: The name assigned to your save file by the game. This will be
   created after you start a playthrough and by default will be stored in
   `C:\Users\{user}\AppData\Local\Larian Studios\Baldur's Gate 3\PlayerProfiles\Public\Savegames\Story`.
 - `larian_saves`: The name of the directory where the game saves your games.
